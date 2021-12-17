@@ -1,0 +1,15 @@
+    	"engine": {
+        "authorityRound": {
+            "params": {
+                "stepDuration": "8",
+                "validators": {
+    "multi": {
+        "0": {
+            "list": [ 0x0000000000000000000000000000000000000000 ]
+        }
+    }
+}
+            }
+        }
+    },
+    

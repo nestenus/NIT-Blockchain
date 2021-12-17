@@ -1,0 +1,14 @@
+	"engine": {
+		"tendermint": {
+			"params": {
+				"validators" : {
+					"list": [ 0x0000000000000000000000000000000000000000
+					]
+				},
+				"timeoutPropose": 10000,
+				"timeoutPrevote": 10000,
+				"timeoutPrecommit": 10000,
+				"timeoutCommit": 10000
+			}
+		}
+	},
